@@ -3,6 +3,9 @@ package Tasks;
 import java.util.*;
 
 public class maxAreaOfIslandNew {
+    public static void main(String[] args) {
+
+    }
     int[][] STEPS = { { 0, 1 }, { 0, -1 }, { 1, 0 }, { -1, 0 } };
 
     public int maxAreaOfIsland(int[][] grid) {
